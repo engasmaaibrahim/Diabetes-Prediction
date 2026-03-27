@@ -94,7 +94,6 @@ git clone https://github.com/engasmaaibrahim/Diabetes-Prediction
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the notebook or script
 ```
 
 ---
