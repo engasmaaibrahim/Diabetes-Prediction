@@ -79,8 +79,8 @@ Models were evaluated using:
 
 **Logistic Regression** achieved the best performance:
 
-* ✅ Test Accuracy: **~80%**
-* ✅ Stable performance (no overfitting)
+* Test Accuracy: **~80%**
+* Stable performance (no overfitting)
 
 ---
 
@@ -88,7 +88,8 @@ Models were evaluated using:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/diabetes-prediction.git
+git clone https://github.com/engasmaaibrahim/Diabetes-Prediction
+ؤ
 
 # Install dependencies
 pip install -r requirements.txt
