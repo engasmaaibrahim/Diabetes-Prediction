@@ -89,7 +89,7 @@ Models were evaluated using:
 ```bash
 # Clone the repository
 git clone https://github.com/engasmaaibrahim/Diabetes-Prediction
-ؤ
+
 
 # Install dependencies
 pip install -r requirements.txt
